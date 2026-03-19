@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.HashMap;
 import java.util.Map;
-A
+
 class User {
     private String username;
     private String password;
